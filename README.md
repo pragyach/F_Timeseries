@@ -1,5 +1,5 @@
 # Faclon_Timeseries
-## Importan tutorials followed for learning mathematics of time series
+## Important tutorials followed for learning mathematics of time series
 https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
 https://www.kaggle.com/c/web-traffic-time-series-forecasting/discussion/43795
 https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
@@ -16,7 +16,8 @@ https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecast
 https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
 
 
-Installation links where I found difficulty 
+##Installation links 
+
 https://medium.com/codezillas/step-by-step-guide-to-install-tensorflow-gpu-on-ubuntu-18-04-lts-6feceb0df5c0
 https://conda.io/docs/user-guide/getting-started.html
 
